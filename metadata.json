@@ -1,0 +1,6 @@
+{
+  "name": "Jharkhand PYQ",
+  "description": "Jharkhand No.1 Class 10 & 12 Previous Year Questions App with subject-wise, chapter-wise and year-wise solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
